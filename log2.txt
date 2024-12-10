@@ -1,0 +1,7 @@
+----------------
+2024-05-16 09:34:43 CombinedView.swift:229 DBG modules: 5
+2024-05-16 09:34:43 CombinedView.swift:232 DBG adding: CPU portal
+2024-05-16 09:34:43 CombinedView.swift:232 DBG adding: RAM portal
+2024-05-16 09:34:43 CombinedView.swift:232 DBG adding: Disk portal
+2024-05-16 09:34:43 CombinedView.swift:232 DBG adding: Network portal
+2024-05-16 09:34:43 CombinedView.swift:232 DBG adding: Battery portal
